@@ -190,14 +190,15 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  enabled: false
   news:
-    enabled: false
+    #enabled: false
     defaults:
       layout: post
     output: true
     permalink: /:collection/:title/
   projects:
-    enabled: false
+    #enabled: false
     output: true
     permalink: /:collection/:title/
 
