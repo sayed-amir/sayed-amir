@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>School of Systems and Computing (SYSCOM)<br />University of New South Wales (UNSW), Canberra</a>. 
+subtitle: <a href='#'></a>. 
 
 profile:
   align: right
