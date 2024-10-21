@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>School of Systems and Computing (SYSCOM)<br />, University of New South Wales (UNSW), Canberra</a>. <br /> Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>School of Systems and Computing (SYSCOM)<br />University of New South Wales (UNSW), Canberra</a>. 
 
 profile:
   align: right
@@ -17,5 +17,6 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am an Associate Lecturer at the University of New South Wales at ADFA-Canberra. I completed my BSc in Electronic Engineering at the Isfahan University of Technology, Iran in 2008 and my MSc in Electronics and Communication Engineering at the Amirkabir University of Technology (Tehran Polytechnic), Iran in 2011. I completed my PhD in Computer Science and Engineering at the University of New South Wales (UNSW Sydney) in 2017. I was a sessional lecturer at UNSW, University of Sunshine Coast, and Federation University in Sydney in 2018 and 2019. In 2019, I joined the Central Queensland University in Sydney as a Lecturer. Since mid-2020. I have joined the School of Engineering and Information Technology at UNSW-Canberra.
+I am an Associate Lecturer at UNSW Canberra, where I focus on wireless communications, 5G networks, and cybersecurity. I earned my BSc in Electronic Engineering from Isfahan University of Technology and my MSc in Electronics and Communication Engineering from Amirkabir University of Technology in Iran. In 2017, I completed my PhD in Computer Science and Engineering at UNSW Sydney.
 
+I joined UNSW Canberra in 2020, where my research focuses on wireless communication technologies such as 5G/6G networks and network security. I am particularly interested in developing cost-effective, real-world solutions for physical layer security (PLS) and private 5G networks, exploring their applications in both commercial and industry settings. My work bridges theoretical advancements with practical implementations, addressing challenges in network performance, cybersecurity, and emerging communication technologies.
