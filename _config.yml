@@ -191,11 +191,13 @@ newsletter:
 
 collections:
   news:
+    enabled: false
     defaults:
       layout: post
     output: true
     permalink: /:collection/:title/
   projects:
+    enabled: false
     output: true
     permalink: /:collection/:title/
 
