@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sayed-amir.github.io/sayed-amir//sitemap.xml
+Sitemap: https://sayed-amir.github.io/sitemap.xml
