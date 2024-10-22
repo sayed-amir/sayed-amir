@@ -140,7 +140,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # Pagination
 #pagination:
- # enabled: true
+ # enabled: true  ##
 
 #related_blog_posts:
  # enabled: true
