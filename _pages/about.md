@@ -11,10 +11,13 @@ I am a Lecturer at UNSW Canberra, where I focus on wireless communications, 5G n
 I joined UNSW Canberra in 2020, where my research focuses on wireless communication technologies such as 5G/6G networks and network security. I am particularly interested in developing cost-effective, real-world solutions for physical layer security (PLS) and private 5G networks, exploring their applications in both commercial and industry settings. My work bridges theoretical advancements with practical implementations, addressing challenges in network performance, cybersecurity, and emerging communication technologies.
 
 ## Highlights
-- Our paper ""<a href="https://arxiv.org/abs/2511.22408" target="_blank">Quantifying Geometry Effects on Low-Cost Intelligent Reflecting Surfaces</a>" has been accepted for  presentation at IEEE WCNC 2026 in Malaysia.
+- Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/11618508" target="_blank">Secrecy-Aware Trading of Radio Resources in Wireless Networks Using Cooperative Jamming</a> is published in IEEE Access.  
 
+- Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/11617603" target="_blank">Sustainable Livestock Monitoring with UAV-Assisted Energy-Harvesting IoT Sensors</a>" has been presented and published in the 2026 IEEE 27th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM).
+- 
+- Our paper "<a href="https://arxiv.org/abs/2511.22408" target="_blank">Quantifying Geometry Effects on Low-Cost Intelligent Reflecting Surfaces</a>" has been accepted for  presentation at IEEE WCNC 2026 in Malaysia.
 
-- Our paper on using Federated Learning for SmartHome,"<a href="https://www.sciencedirect.com/science/article/pii/S1389128626000526" target="_blank">FedHome: A federated learning framework for smart home device classification and attack detection by broadband service providers</a>" , is published in *Computer Networks* (<a href="files/FedHome.pdf" target="_blank">PDF</a>).
+- Our paper on using Federated Learning for SmartHome,"<a href="https://www.sciencedirect.com/science/article/pii/S1389128626000526" target="_blank">FedHome: A federated learning framework for smart home device classification and attack detection by broadband service providers</a>", is published in *Computer Networks* (<a href="files/FedHome.pdf" target="_blank">PDF</a>).
 
 - I am a Guest Editor for the Special Issue *Intelligent and Resilient Networking for the Low-Altitude Economy: From Autonomous Systems to Scalable Services* in Ad Hoc Networks
 Find more information <a href="https://www.sciencedirect.com/special-issue/329299/intelligent-and-resilient-networking-for-the-low-altitude-economy-from-autonomous-systems-to-scalable-services" target="_blank">here</a>.
