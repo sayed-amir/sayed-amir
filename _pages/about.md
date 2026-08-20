@@ -11,7 +11,7 @@ I am a Lecturer at UNSW Canberra, where I focus on wireless communications, 5G n
 I joined UNSW Canberra in 2020, where my research focuses on wireless communication technologies such as 5G/6G networks and network security. I am particularly interested in developing cost-effective, real-world solutions for physical layer security (PLS) and private 5G networks, exploring their applications in both commercial and industry settings. My work bridges theoretical advancements with practical implementations, addressing challenges in network performance, cybersecurity, and emerging communication technologies.
 
 ## Highlights
-- Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/11618508" target="_blank">Secrecy-Aware Trading of Radio Resources in Wireless Networks Using Cooperative Jamming</a> is published in IEEE Access.  
+- Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/11618508" target="_blank">Secrecy-Aware Trading of Radio Resources in Wireless Networks Using Cooperative Jamming</a>" is published in IEEE Access.  
 
 - Our paper "<a href="https://ieeexplore.ieee.org/abstract/document/11617603" target="_blank">Sustainable Livestock Monitoring with UAV-Assisted Energy-Harvesting IoT Sensors</a>" has been presented and published in the 2026 IEEE 27th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM).
 - 
